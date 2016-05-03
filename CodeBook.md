@@ -5,10 +5,6 @@ date: "April 19, 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Final assignment of Coursera's Getting and Cleaning Data course
 
 In this code book we describe the variables, data and any transformations or work performed to clean up the data. 
